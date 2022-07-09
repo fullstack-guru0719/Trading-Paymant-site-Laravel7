@@ -1,0 +1,107 @@
+.footer__top img{
+	max-width: 250px;
+	max-height: 43px;
+}
+.modal-content {
+    background-color: #242431;
+    border: 1px solid rgba(0,0,0,.2);
+}
+.close,.close:hover {
+    color: #fff;
+    opacity: 1;
+}
+.custom-input-group{
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0;
+}
+.country-select{
+    height: 50px;
+}
+
+#phoneInput .letter{
+        border: 1px solid #cca354 !important;
+            background: transparent !important;
+}
+#phoneInput .letter + .letter {
+    border-left: 1px solid #cca354 !important;
+}
+.card {
+    box-shadow: 0 0 15px rgba(204, 163, 84, 0.5);
+    background-color: #000000;
+    border: 2px solid rgba(204, 163, 84, 0.5);
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    background-color: transparent;
+    border: 1px dashed #cca35454;
+}
+.btn{
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 8px 30px;
+}
+.cmn-section{
+    padding: 150px 0px;
+    background: 
+}
+.table.style--two thead tr th {
+     color: #000; 
+}
+.card .card-header {
+    background-color: #cca354;
+}
+.input-group-text {
+    background-color: #cca354;
+    border: 1px solid #cca354;
+}
+.header .main-menu li .sub-menu li a {
+    color: #ffffff !important;
+}
+
+.referral-ul li {
+    padding-left: 1em;
+    border: 1px dotted #fff;
+    border-width: 0 0 1px 1px;
+}
+
+.referral-ul li.container {
+    border-bottom: 0px;
+    width: 100%;
+}
+
+.referral-ul li.empty {
+    font-style: italic;
+    color: silver;
+    border-color: silver;
+}
+
+.referral-ul li p {
+    margin: 0;
+    /*background: #121622;*/
+    position: relative;
+    top: 0.5em;
+    padding-bottom: 3px;
+}
+
+.referral-ul li ul {
+    border-top: 1px dotted #ffffff;
+    margin-left: -1em;
+    padding-left: 2em;
+}
+
+.referral-ul ul li:last-child ul {
+    border-left: 1px dotted #fff;
+    margin-left: -17px;
+}
+.pt-60{
+    padding-top: 60px !important;
+}
+.btn-disabled{
+    opacity: 0.5;
+    cursor: auto !important;
+}

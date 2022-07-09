@@ -1,0 +1,343 @@
+{
+  "banner": {
+    "builder": true,
+    "no_selection": true,
+    "name": "Banner Content",
+    "content": {
+      "images": {
+        "image": {
+          "size": "1920x896"
+        }
+      },
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text",
+      "button_name": "text",
+      "button_link": "text"
+    }
+  },
+  "about": {
+    "builder": true,
+    "name": "About",
+    "content": {
+      "images": {
+        "image": {
+          "size": "1920x1281"
+        }
+      },
+      "heading_w": "text",
+      "heading_c": "text",
+      "button_name": "text",
+      "button_link": "text",
+      "content": "textarea"
+    }
+  },
+  "plan": {
+    "builder": true,
+    "name": "Plan",
+    "content": {
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    }
+  },
+  "why_choose": {
+    "builder": true,
+    "name": "Why Choose Us",
+    "content": {
+      "images":{
+        "image":{
+          "size":"1920x1152"
+        }
+      },
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+        "title":"text",
+        "icon":"icon",
+        "content":"textarea",
+        "modal":true
+      }
+  },
+  "calculation": {
+    "builder": true,
+    "name": "Profit Calculator",
+    "content": {
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    }
+  },
+  "how_work": {
+    "builder": true,
+    "name": "How Work",
+    "content": {
+      "images":{
+        "image":{
+          "size":"1920x832"
+        }
+      },
+      "heading_w_1": "text",
+      "heading_c": "text",
+      "heading_w_2": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+      "title":"text",
+      "icon":"icon",
+      "modal":true
+    }
+  },
+  "faq": {
+    "builder": true,
+    "name": "FAQ",
+    "content": {
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+      "question":"text",
+      "answer":"textarea",
+      "modal":true
+    }
+  },
+  "testimonial": {
+    "builder": true,
+    "name": "Testimonial",
+    "content": {
+      "images":{
+        "image":{
+          "size":"1920x800"
+        }
+      },
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+      "images":{
+        "image":{
+          "size":"69x75"
+        }
+      },
+      "name":"text",
+      "designation":"text",
+      "qoute":"textarea",
+      "modal":true
+    }
+  },
+  "team": {
+    "builder": true,
+    "name": "Team Member",
+    "content": {
+      "images":{
+        "image":{
+          "size":"1920x832"
+        }
+      },
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+      "images":{
+        "image":{
+          "size":"280x296"
+        }
+      },
+      "name":"text",
+      "designation":"text",
+      "modal":true
+    }
+  },
+  "transaction": {
+    "builder": true,
+    "name": "Transaction Section",
+    "content": {
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+      "select":{
+        "name":"trx_type",
+        "options":{
+          "deposit":"Deposit",
+          "withdraw":"Withdraw"
+        }
+      },
+      "name":"text",
+      "date":"date",
+      "amount":"text",
+      "gateway":"text",
+      "modal":true
+    }
+  },
+  "top_investor": {
+    "builder": true,
+    "name": "Top Investor",
+    "content": {
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    }
+  },
+  "cta": {
+    "builder": true,
+    "name": "Call To Action",
+    "content": {
+      "images":{
+        "image":{
+          "size":"1920x1097"
+        }
+      },
+      "heading": "text",
+      "sub_heading": "text",
+      "button_name": "text",
+      "button_url": "text"
+    }
+  },
+  "we_accept": {
+    "builder": true,
+    "name": "We Accept Section",
+    "content": {
+      "heading_w": "text",
+      "heading_c": "text",
+      "sub_heading": "text"
+    }
+  },
+  "blog": {
+    "builder": true,
+    "name": "Blog Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element": {
+      "images": {
+        "image": {
+          "size": "920x483",
+          "thumb": "555x293"
+        }
+      },
+      "title": "text",
+      "description": "textarea-nic",
+      "modal": false
+    }
+  },
+  "subscribe": {
+    "builder": true,
+    "name": "Subscribe Section",
+    "content": {
+      "images":{
+        "image":{
+          "size":"1920x832"
+        }
+      },
+      "heading": "text"
+    }
+  },
+  "links": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Links",
+    "element": {
+      "title": "text",
+      "content": "textarea-nic",
+      "modal":false
+    }
+  },
+  "footer": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Footer",
+    "content": {
+      "images":{
+        "image":{
+          "size":"1920x1281"
+        }
+      }
+    }
+  },
+  "social_icon": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Social Icon",
+    "element":{
+      "icon":"icon",
+      "url":"text",
+      "modal":true
+    }
+  },
+  "login": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Login",
+    "content":{
+      "images":{
+        "section_bg":{
+          "size":"800x364"
+        },
+        "card_bg":{
+          "size":"600x296"
+        }
+      },
+      "heading_w":"text",
+      "heading_c":"text",
+      "sub_heading":"text"
+    }
+  },
+  "register": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Register",
+    "content":{
+      "images":{
+        "section_bg":{
+          "size":"800x364"
+        },
+        "card_bg":{
+          "size":"600x296"
+        }
+      },
+      "heading_w":"text",
+      "heading_c":"text",
+      "sub_heading":"text"
+    }
+  },
+  "breadcrumb": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Breadcrumb",
+    "content":{
+      "images":{
+        "image":{
+          "size":"1920x1280"
+        }
+      }
+    }
+  },
+  "contact": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Contact",
+    "content":{
+      "images":{
+        "image":{
+          "size":"1920x1280"
+        }
+      },
+      "heading":"text",
+      "sub_heading":"text"
+    },
+    "element":{
+      "icon":"icon",
+      "title":"text",
+      "content":"text",
+      "modal":true
+    }
+  }
+}

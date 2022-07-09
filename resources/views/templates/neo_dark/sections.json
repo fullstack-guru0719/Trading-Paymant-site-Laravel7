@@ -1,0 +1,237 @@
+{
+  "banner": {
+    "builder": true,
+    "no_selection": true,
+    "name": "Banner Content",
+    "content": {
+      "images": {
+        "image": {
+          "size": "700x1000"
+        }
+      },
+      "heading": "text",
+      "description": "text",
+      "btn_one_name": "text",
+      "btn_one_link": "text",
+      "btn_two_name": "text",
+      "btn_two_link": "text"
+    }
+  },
+  "feature": {
+    "builder": true,
+    "name": "Feature Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element": {
+      "title": "text",
+      "description": "textarea",
+      "icon": "icon",
+      "modal": true
+    }
+  },
+  "plan": {
+    "builder": true,
+    "name": "Plan Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    }
+  },
+  "about": {
+    "builder": true,
+    "name": "About Us",
+    "content": {
+      "images": {
+        "image": {
+          "size": "600x360"
+        }
+      },
+      "heading": "text",
+      "description": "textarea"
+    }
+  },
+  "testimonial": {
+    "builder": true,
+    "name": "Testimonial Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element": {
+      "images": {
+        "image": {
+          "size": "135x135"
+        }
+      },
+      "author": "text",
+      "designation": "text",
+      "quote": "textarea",
+      "modal": false
+    }
+  },
+  "team": {
+    "builder": true,
+    "name": "Team Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element": {
+      "images": {
+        "image": {
+          "size": "350x416"
+        }
+      },
+      "name": "text",
+      "designation": "text",
+      "modal": true
+    }
+  },
+  "calculation": {
+    "builder": true,
+    "name": "Calculation Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    }
+  },
+  "transaction": {
+    "builder": true,
+    "name": "Transaction Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+      "select":{
+        "name":"trx_type",
+        "options":{
+          "deposit":"Deposit",
+          "withdraw":"Withdraw"
+        }
+      },
+      "name":"text",
+      "date":"date",
+      "amount":"text",
+      "gateway":"text",
+      "modal":true
+    }
+  },
+  "how_work": {
+    "builder": true,
+    "name": "How Work",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element":{
+      "icon":"icon",
+      "title":"text",
+      "modal":true
+    }
+  },
+  "top_investor": {
+    "builder": true,
+    "name": "Top Investor Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    }
+  },
+  "counter": {
+    "builder": true,
+    "name": "Counter Section",
+    "element": {
+      "title": "text",
+      "counter_digit": "text",
+      "modal": true
+    }
+  },
+  "faq": {
+    "builder": true,
+    "name": "FAQ Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element": {
+      "question": "text",
+      "answer": "textarea",
+      "modal": false
+    }
+  },
+  "we_accept": {
+    "builder": true,
+    "name": "We Accept Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    }
+  },
+  "blog": {
+    "builder": true,
+    "name": "Blog Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    },
+    "element": {
+      "images": {
+        "image": {
+          "size": "920x483",
+          "thumb": "555x293"
+        }
+      },
+      "title": "text",
+      "description": "textarea-nic",
+      "modal": false
+    }
+  },
+  "subscribe": {
+    "builder": true,
+    "name": "Subscribe Section",
+    "content": {
+      "heading": "text",
+      "sub_heading": "text"
+    }
+  },
+  "links": {
+    "builder": true,
+    "no_selection":true,
+    "name": "Links",
+    "element": {
+      "title": "text",
+      "content": "textarea-nic",
+      "modal":false
+    }
+  },
+  "social_icon": {
+    "builder": true,
+    "no_selection": true,
+    "name": "Social Icons",
+    "element": {
+      "title": "text",
+      "icon": "icon",
+      "url": "text",
+      "modal": true
+    }
+  },
+  "contact_us": {
+    "builder": true,
+    "no_selection": true,
+    "name": "Contact Us",
+    "content": {
+      "title": "text",
+      "short_details": "text",
+      "email_address": "text",
+      "address": "text",
+      "contact_number": "text",
+      "map_api_key": "text",
+      "latitude": "text",
+      "longitude": "text",
+      "website_footer": "textarea"
+    }
+  }
+}
